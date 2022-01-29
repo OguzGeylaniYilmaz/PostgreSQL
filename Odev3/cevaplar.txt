@@ -1,0 +1,10 @@
+
+
+
+--Select * from country where country like 'A%a'
+
+--Select * from country where country like '______%n'
+
+--Select * from film where title ILIKE '____%T%'
+
+--Select * from film where title like 'C%' and length > 90 and rental_rate = 2.99
